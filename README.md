@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [nees101/FrontendMentor](https://your-solution-url.com)
-- Live Site URL: [nees101/github](https://your-live-site-url.com)
+- Solution URL: [nees101/FrontendMentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/65f329952f40450f9191f578/challenge/refactor)
+- Live Site URL: [nees101/github](https://nees101.github.io/Blog-Preview-Card/)
 
 ## My process
 
