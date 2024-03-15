@@ -30,7 +30,7 @@ Users should be able to:
 
 #### Mobile Design
 
-![](./FinalScreenshots/Mobile_design.png)
+![](./FinalScreenshots/Mobile-design.png)
 
 ### Links
 
